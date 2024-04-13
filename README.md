@@ -4,6 +4,6 @@
 3. Below are the list of the current projects.
 
 
-|	**Project Code**	|	**Description**	|
-|	:---	|	:---:	|
-|	JP_24001	|	Implementation of I2C Protocol for Job Prep	|
+|	**Project Code**	|	**Project Folder**	|	**Description**	|
+|	:---	|	:---	|	:---:	|
+|	JP_24001	|	Project_I2C	|	Implementation of I2C Protocol for Job Prep	|
