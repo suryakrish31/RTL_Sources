@@ -4,6 +4,6 @@
 3. Below are the list of the current projects.
 
 
-|	**$${\color{blue}Project_Code}$$**	|	**$$(\color(blue)Description)$$**	|
+|	**Project Code**	|	**Description**	|
 |	:---	|	:---:	|
 |	JP_24001	|	Implementation of I2C Protocol for Job Prep	|
